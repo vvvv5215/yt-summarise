@@ -13,8 +13,8 @@ A simple Streamlit web app that fetches subtitles from a YouTube video and gener
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/vvvv5215/yt-summarise.git
+   cd yt-summarise
    ```
 
 2. **Install dependencies:**
