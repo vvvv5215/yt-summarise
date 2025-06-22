@@ -40,13 +40,8 @@ streamlit run app.py
 - Enter a YouTube video URL.
 - Click "Fetch & Summarize".
 - View the generated summary.
+![image](https://github.com/user-attachments/assets/5778a681-ffd1-4a87-adbe-756884677e18)
 
-## File Structure
-
-- `app.py` — Main Streamlit app.
-- `utils.py` — Helper functions for fetching, cleaning, and summarizing subtitles.
-- `requirements.txt` — Python dependencies.
-- `.streamlit/secrets.toml` — (Not included) Store your Hugging Face API key here.
 
 ## Requirements
 
@@ -70,7 +65,3 @@ This is caused by YouTube blocking requests from your IP address. Common reasons
 - Try running the app from a different network (e.g., your home computer).
 - Use a VPN or residential proxy to change your IP address.
 - Wait and try again later (the block may be temporary).
-
-## License
-
-MIT License
